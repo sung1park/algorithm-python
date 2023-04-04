@@ -16,3 +16,7 @@
 
 - 오랜만에 문제를 풀어서 많이 어색했다
 - `<tuple> in <list of tuple>` 과 같이 사용한 구문이 있는데, 이런 면에서 Python이 진짜 편한것 같다
+- `list.index()` method를 사용했다
+  - `list`에서 해당 원소가 있으면 `index`를 반환, 없으면 `-1`을 반환하게 하고 싶었다
+  - 다른 마땅한 방법을 모르겠어서 `try~except` 구문을 사용했다
+  - `except ValueError` 같이 특정 에러를 지정해주고 나니 IDE에서 경고를 보내지 않았다
