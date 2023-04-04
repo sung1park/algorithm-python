@@ -22,20 +22,20 @@
 
 ### 문제 분류
 
-- [백트래킹](~/TIL/Algorithm/Backtracking.md)
-- 이진탐색
-- 완전탐색
-- 서로소 집합
-- 분할정복
-- 동적 계획법
-- 그래프 탐색
-- 그리디
+- [백트래킹](https://github.com/sung1park/TIL/blob/master/Algorithm/Backtracking.md)
+- [이진탐색](https://github.com/sung1park/TIL/blob/master/Algorithm/Binary_Search.md)
+- [완전탐색](https://github.com/sung1park/TIL/blob/master/Algorithm/Exhaustive_Search.md)
+- [서로소 집합](https://github.com/sung1park/TIL/blob/master/Algorithm/Disjoint_Set.md)
+- [분할정복](https://github.com/sung1park/TIL/blob/master/Algorithm/Divide_and_Conquer.md)
+- [동적 계획법](https://github.com/sung1park/TIL/blob/master/Algorithm/Dynamic_Programming_1.md)
+- [그래프 탐색](https://github.com/sung1park/TIL/blob/master/Algorithm/BFS_DFS.md)
+- [그리디](https://github.com/sung1park/TIL/blob/master/Algorithm/Greedy.md)
 - 구현
 - 수학
-- 최소신장트리
-- 최단거리
+- [최소신장트리](https://github.com/sung1park/TIL/blob/master/Algorithm/Minimum_Spanning_Tree.md)
+- [최단거리](https://github.com/sung1park/TIL/blob/master/Algorithm/Shotest_Path.md)
 - 시뮬레이션
 - 정렬
-- 문자열
-- 트리
+- [문자열](https://github.com/sung1park/TIL/blob/master/Algorithm/String.md)
+- [트리](https://github.com/sung1park/TIL/blob/master/Algorithm/Tree.md)
 
