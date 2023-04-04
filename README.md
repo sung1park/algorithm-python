@@ -22,7 +22,7 @@
 
 ### 문제 분류
 
-- [백트래킹](../TIL/Algorithm/Backtracking.md)
+- [백트래킹](~/TIL/Algorithm/Backtracking.md)
 - 이진탐색
 - 완전탐색
 - 서로소 집합
